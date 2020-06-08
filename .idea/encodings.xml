@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/springcloud-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-comsumer-dept-80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-comsumer-dept-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-feign-8083/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-dept-feign-8083/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka7001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka7001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka7002/src/main/java" charset="UTF-8" />
