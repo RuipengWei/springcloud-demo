@@ -1,0 +1,19 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: sringcloud-zuul
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    instance-id: zuul
+zuul:
+  routes:
+    provider:
+      serviceId: springcloud-provider-dept
+      path: /dept/**
+  ignore-local-service: true
