@@ -1,0 +1,29 @@
+server:
+  port: 8004
+mybatis:
+  type-aliases-package: com.ruipeng.springcloud.pojo
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  configuration:
+    cache-enabled: true
+
+spring:
+  application:
+    name: springcloud-provider-dept
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://localhost:3306/db03?useUnicode=true&serverTimezone=Asia/Shanghai&useSSL=true&characterEncoding=utf-8
+    username: root
+    password: 123
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    instance-id: dept-provider-hystrix-8004
+
+info:
+  app.name: peng-springcloud
+  company.name: peng.com
+

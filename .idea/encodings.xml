@@ -13,12 +13,18 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka7002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka7003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka7003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-hystrix-dashboard-8085/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-hystrix-dashboard-8085/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-dept-8003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-hystrix-8004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-dept-hystrix-8004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-8090/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-zuul-8090/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

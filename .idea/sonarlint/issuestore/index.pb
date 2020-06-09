@@ -47,3 +47,17 @@ Uspringcloud-provider-dept-8002/src/main/java/com/ruipeng/springcloud/dao/DeptDa
 Yspringcloud-provider-dept-8002/src/main/java/com/ruipeng/springcloud/SpringCloud8002.java,f\1\f1267d7f0baba69d0a15c5e2c87e37ab8737854c
 Ö
 Uspringcloud-provider-dept-8003/src/main/java/com/ruipeng/springcloud/dao/DeptDao.java,4\d\4daf97113cebe51a39ec8b366f10be654376b68d
+ì
+cspringcloud-provider-dept-8003/src/main/java/com/ruipeng/springcloud/controller/DeptController.java,7\1\71afb14e4e534dc2d5b130babba71cbd97d2d8f0
+\
+,springcloud-consumer-dept-feign-8083/pom.xml,5\a\5a2f906836c9b596ca6aa2043a725011cd4a51e1
+~
+Nspringcloud-api/src/main/java/com/ruipeng/springcloud/service/DeptService.java,5\0\50951626ad53ce5cb9cd4e02a22227978392245f
+ì
+cspringcloud-consumer-dept-feign-8083/src/main/java/com/ruipeng/springcloud/config/RibbonConfig.java,9\f\9fa53c3a333fda6b17abca308752e762093f5824
+
+Ospringcloud-consumer-dept-feign-8083/src/main/java/com/ruipeng/rule/MyRule.java,3\6\36051854e579e89fd5f0ca8f56c94a3a516a764e
+ê
+`springcloud-consumer-dept-feign-8083/src/main/java/com/ruipeng/springcloud/FeignApplication.java,f\8\f8808b24a7fc2e6cc48ad36282e862578b7e0538
+ô
+ispringcloud-consumer-dept-feign-8083/src/main/java/com/ruipeng/springcloud/controller/DeptController.java,a\4\a44b7a73ce5f75bd0e98dddaabb49ad2f4c7d417

@@ -1,5 +1,6 @@
 package com.ruipeng.springcloud.service;
 
+import com.ruipeng.springcloud.handler.DeptHystrixHandler;
 import com.ruipeng.springcloud.pojo.Dept;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,7 +15,7 @@ import java.util.List;
  * @author: Ruipeng
  * @create: 2020/6/8 11:04
  */
-@FeignClient("springcloud-provider-dept")
+@FeignClient(value = "springcloud-provider-dept", fallbackFactory = DeptHystrixHandler.class)
 public interface DeptService {
     @PostMapping("/dept")
     boolean addDept(Dept dept);
