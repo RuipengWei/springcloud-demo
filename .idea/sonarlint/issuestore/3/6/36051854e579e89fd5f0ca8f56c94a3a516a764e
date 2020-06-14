@@ -1,21 +1,21 @@
 
-Y
-java:S2629N"7Use the built-in formatting to construct this argument.( ÿ§φϊÿÿÿÿ8ερ©.
-Q
-java:S1068"/Remove this unused "ALL_SERVERS" private field.(‘Δεϊύÿÿÿÿ8ερ©.
-X
-java:S1068";Remove this unused "nextServerCyclicCounter" private field.(ωεδό8Λ”σ©.
+J
+java:S1172"*Remove this unused method parameter "key".(ΝΕπήωÿÿÿÿ8ερ©.
 \
-java:S1068":Remove this unused "AVAILABLE_ONLY_SERVERS" private field.(ώΚΙδώÿÿÿÿ8ερ©.
-T
-java:S2589-"7Remove this expression which always evaluates to "true"(©’ΩÒ8ερ©.
-^
-java:S3457I"AFormat specifiers should be used instead of string concatenation.(σΈΖ8ερ©.
-L
-java:S1172$"*Remove this unused method parameter "key".(ΝΕπήωÿÿÿÿ8ερ©.
-T
-java:S2629I"7Use the built-in formatting to construct this argument.(σΈΖ8ερ©.
-c
-java:S3457N"AFormat specifiers should be used instead of string concatenation.( ÿ§φϊÿÿÿÿ8ερ©.
-t
-java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ΝΕπήωÿÿÿÿ8¦ΖΚ•©.
+java:S3457"AFormat specifiers should be used instead of string concatenation.(σΈΖ8ερ©.
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ΝΕπήωÿÿÿÿ8¦ΖΚ•©.
+V
+java:S1068";Remove this unused "nextServerCyclicCounter" private field.(ωεδό8Λ”σ©.
+O
+java:S1068"/Remove this unused "ALL_SERVERS" private field.(‘Δεϊύÿÿÿÿ8ερ©.
+W
+java:S2629"7Use the built-in formatting to construct this argument.( ÿ§φϊÿÿÿÿ8ερ©.
+R
+java:S2589"7Remove this expression which always evaluates to "true"(©’ΩÒ8ερ©.
+a
+java:S3457"AFormat specifiers should be used instead of string concatenation.( ÿ§φϊÿÿÿÿ8ερ©.
+R
+java:S2629"7Use the built-in formatting to construct this argument.(σΈΖ8ερ©.
+Z
+java:S1068":Remove this unused "AVAILABLE_ONLY_SERVERS" private field.(ώΚΙδώÿÿÿÿ8ερ©.

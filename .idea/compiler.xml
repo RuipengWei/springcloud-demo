@@ -9,7 +9,7 @@
         <module name="springcloud-hystrix-dashboard-8085" />
         <module name="springcloud-consumer-dept-feign-8083" />
         <module name="springcloud-provider-8003" />
-        <module name="springcloud-zuul-8090" />
+        <module name="springcloud-provider-dept-8002" />
         <module name="springcloud-eureka7003" />
         <module name="springcloud-eureka7002" />
         <module name="springcloud-eureka7001" />
@@ -17,8 +17,9 @@
         <module name="springcloud-comsumer-dept-80" />
         <module name="springcloud-provider-dept-hystrix-8004" />
         <module name="springcloud-provider-dept-8003" />
-        <module name="springcloud-provider-dept-8002" />
+        <module name="springcloud-zuul-8090" />
         <module name="springcloud-provider-dept-8001" />
+        <module name="config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="" />
       <module name="myDemo" options="" />
       <module name="springcloud-api" options="" />
       <module name="springcloud-comsumer-dept-80" options="" />

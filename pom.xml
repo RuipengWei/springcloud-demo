@@ -22,6 +22,7 @@
         <module>springcloud-provider-dept-hystrix-8004</module>
         <module>springcloud-hystrix-dashboard-8085</module>
         <module>springcloud-zuul-8090</module>
+        <module>config-server</module>
     </modules>
 
     <packaging>pom</packaging>
