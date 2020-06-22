@@ -2,27 +2,31 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-hystrix-dashboard-8085" />
-        <module name="springcloud-consumer-dept-feign-8083" />
+        <module name="config-client" />
         <module name="springcloud-provider-8003" />
-        <module name="springcloud-provider-dept-8002" />
+        <module name="springcloud-zuul-8090" />
+        <module name="spring-cloud-bus" />
         <module name="springcloud-eureka7003" />
         <module name="springcloud-eureka7002" />
         <module name="springcloud-eureka7001" />
         <module name="springcloud-api" />
         <module name="springcloud-comsumer-dept-80" />
+        <module name="springcloud-consumer-dept-feign-8083" />
         <module name="springcloud-provider-dept-hystrix-8004" />
         <module name="springcloud-provider-dept-8003" />
-        <module name="springcloud-zuul-8090" />
+        <module name="springcloud-provider-dept-8002" />
         <module name="springcloud-provider-dept-8001" />
         <module name="config-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-cloud-bus" target="1.8" />
       <module name="springcloud-comsumer-dept-hystrix-8083" target="1.8" />
       <module name="springcloud-eureka8761" target="1.8" />
       <module name="springcloud-provider-8003" target="1.8" />
@@ -32,8 +36,10 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-client" options="" />
       <module name="config-server" options="" />
       <module name="myDemo" options="" />
+      <module name="spring-cloud-bus" options="" />
       <module name="springcloud-api" options="" />
       <module name="springcloud-comsumer-dept-80" options="" />
       <module name="springcloud-comsumer-dept-hystrix-8083" options="" />

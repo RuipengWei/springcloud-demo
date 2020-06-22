@@ -79,3 +79,14 @@ M
 springcloud-zuul-8090/pom.xml,b\6\b6e5da8e0e1cf432eba7121b591bfac00421a2ae
 €
 Pspringcloud-zuul-8090/src/main/java/com/ruipeng/springcloud/ZuulApplication.java,0\9\09257cfc99b3465a780e3127df82fac8214c24d9
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+E
+config-server/pom.xml,a\2\a2f9618c8ad821b143a07a29a9805fcb0b2df470
+E
+config-client/pom.xml,d\1\d1acdeefc189118f89fb20a22dc258b45bc3f325
+€
+Pconfig-server/src/main/java/com/ruipeng/springcloud/ConfigServerApplication.java,5\a\5ae73cbea949c11efbf7607ea77ad43cd8203a58
+€
+Pconfig-client/src/main/java/com/ruipeng/springcloud/ConfigClientApplication.java,a\6\a6bc8c522c648ad0527f215e3e2779892e850671

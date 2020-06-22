@@ -23,6 +23,8 @@
         <module>springcloud-hystrix-dashboard-8085</module>
         <module>springcloud-zuul-8090</module>
         <module>config-server</module>
+        <module>config-client</module>
+        <module>spring-cloud-bus</module>
     </modules>
 
     <packaging>pom</packaging>
